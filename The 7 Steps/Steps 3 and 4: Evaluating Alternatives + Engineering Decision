@@ -1,5 +1,7 @@
 STEPS 3 AND 4:
 
 The preferable method to choose would be to use the system where the trains trigger sensors on the railway at different points for multiple reasons. 
-One reason is that there would be significantly less work to implement the system. Rather than having to update every single train to have GPS, this system would just need to focus on the train tracks. 
-GPS relies on too many external factors and poses risks to reliability. By having a system that depends on basic sensors and general prediction software, it makes it easier to maintain which in turn is good for costs, longevity and environmental impact.
+One reason is that there would be significantly less work to implement the system. Rather than having to update every single train to have GPS, this system would just need to focus on the already implemented train tracks. 
+GPS relies on too many external factors and poses risks to reliability. If a network went down or was hacked by an external group, it poses an extremely high security risk to the train network. 
+There’s a reason that the aviation world still uses original networking systems as the ability to infiltrate them is so low. 
+By having a system that depends on basic sensors and general prediction software, it makes it easier to maintain which in turn is good for costs, longevity as well as environmental impact.
