@@ -1,0 +1,11 @@
+STEPS 5 AND 6:
+
+Writing in plain english how the system might work.
+
+The system is sitting in idle as nothing approaches. It monitors the sensors to see if there is a train coming from either side of the tracks, as well as if there is a vehicle on the road. If nothing is detected, keep the boom gates up allowing for vehicles to pass over the cross section.
+
+If a train is detected by the sensors from either side, lower the gates. Assuming the sensor no longer detects that a train is coming, nor is there a vehicle on the tracks, raise the gates.
+
+If a vehicle is detected to be on the tracks, lower the gates. Once there is no longer a vehicle detected, nor are there any trains coming, raise the gates.
+
+If there is a fault in the system, lower the gates to ensure safety. If the fault is fixed, check if there are any trains coming or if there is a vehicle on the tracks, if nothing, raise the gates.
