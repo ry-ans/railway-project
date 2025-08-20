@@ -1,0 +1,11 @@
+STEP 2:
+
+Part a)
+
+Brainstorming two different logic-based solutions.
+
+Option 1: This logic based solution would implement a system where there were multiple checkpoints along the train tracks so when a train passes over these points, the speed and estimated time of arrival can be used as one aspect of calculating when to open and close the boom gates. It would also use sensors to detect if there is a vehicle on the road. As the train may have a variation in its speed, the train’s ETA would keep updating and become more and more precise the closer it gets to the crossing.
+
+Option 2: This solution would use GPS tracking as a method of calculating the train's time of passing through the railway crossing point. This would add a very high level of accuracy and safety if all the trains had this implemented. This idea would also use the same sensors to detect if a vehicle is on the tracks.
+
+Part b)
